@@ -2,7 +2,7 @@
 Project Details
 
 
-##Introduction
+## Introduction
 Dataset Description
 the dataset is about TMDb movie data This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
 
@@ -12,7 +12,7 @@ Most popular Actor respect to number ofmovies most popular genres Top Most Produ
 
 
 
-##Data Cleaning
+## Data Cleaning
 
 
 we need to search for wrong datatypes
@@ -23,7 +23,7 @@ check for multiple value of columns
 
 
 
-##Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Research Question 1 (Most popular Actor respect to number ofmovies)
 
@@ -45,7 +45,7 @@ Research Question 9 Average revenue of Moives
 
 
 
-##Conclusions
+## Conclusions
 
 
 
